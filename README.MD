@@ -1,4 +1,4 @@
-# How to use Wildly Swarm on DeegeU.com
+# How to use Wildfly Swarm on DeegeU.com
 
 The purpose of this repository is to supplement the video with code, and to provide a simple starting point to create a REST application using Wildfly Swarm.
 
